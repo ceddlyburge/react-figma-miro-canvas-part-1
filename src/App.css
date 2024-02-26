@@ -16,7 +16,7 @@
   flex-wrap: wrap;
 }
 
-.canvasWindow {
+.canvas {
   overflow: hidden;
   border-radius: 3px;
   border-color:chocolate;
